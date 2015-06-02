@@ -3,3 +3,4 @@
 .tox
 database.db
 docs/_build
+src/django_roughpages.egg-info
